@@ -1,1 +1,1 @@
-# KlasisikasiPenyakitDaunPadi
+# KlasifikasiPenyakitDaunPadi

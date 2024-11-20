@@ -1,6 +1,5 @@
 import streamlit as st
 import sqlite3
-from streamlit_authenticator import Authenticate
 import hashlib
 from PIL import Image
 import numpy as np
